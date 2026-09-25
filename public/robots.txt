@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://merorosdays.github.io/sitemap.xml
